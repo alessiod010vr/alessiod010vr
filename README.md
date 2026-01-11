@@ -56,11 +56,9 @@ Mi piace costruire progetti **solidi**, **performanti** e **curati nei dettagli*
 
 ## 🧩 Approccio allo sviluppo
 
-- ✔️ No framework quando non servono  
 - ✔️ Codice leggibile e manutenibile  
 - ✔️ UI coerente e responsive  
 - ✔️ Attenzione ai dettagli  
-- ✔️ Mobile-first mindset  
 
 ---
 
