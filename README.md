@@ -87,11 +87,17 @@ Nel mio profilo trovi:
 
 <div align="center">
 
-<!-- GitHub Stats -->
-<img src="https://github-readme-stats.vercel.app/api?username=alessiod010vr&show_icons=true&theme=tokyonight&hide_border=true" height="170" />
+<!-- GitHub Stats (Readme Stats) -->
+<img
+  src="https://github-readme-stats.vercel.app/api?username=alessiod010vr&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=21600"
+  height="170"
+/>
 
-<!-- Top Languages -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alessiod010vr&layout=compact&theme=tokyonight&hide_border=true" height="170" />
+<!-- Top Languages (Readme Stats) -->
+<img
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=alessiod010vr&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=21600"
+  height="170"
+/>
 
 </div>
 
@@ -99,8 +105,12 @@ Nel mio profilo trovi:
 
 <div align="center">
 
-<!-- Commit Streak -->
-<img src="https://github-readme-streak-stats.herokuapp.com?user=alessiod010vr&theme=tokyonight&hide_border=true" />
+<!-- Commit Streak (Demolab endpoint) -->
+<img
+  src="https://streak-stats.demolab.com?user=alessiod010vr&theme=tokyonight&hide_border=true"
+  alt="GitHub Streak"
+/>
 
 </div>
+
 
