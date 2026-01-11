@@ -83,34 +83,17 @@ Nel mio profilo trovi:
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Activity
 
 <div align="center">
 
-<!-- GitHub Stats (Readme Stats) -->
-<img
-  src="https://github-readme-stats.vercel.app/api?username=alessiod010vr&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=21600"
-  height="170"
-/>
-
-<!-- Top Languages (Readme Stats) -->
-<img
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=alessiod010vr&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=21600"
-  height="170"
-/>
-
-</div>
-
-<br/>
-
-<div align="center">
-
-<!-- Commit Streak (Demolab endpoint) -->
 <img
   src="https://streak-stats.demolab.com?user=alessiod010vr&theme=tokyonight&hide_border=true"
-  alt="GitHub Streak"
+  alt="GitHub Commit Streak"
 />
 
+<img src="https://img.shields.io/badge/Status-Active-16a34a?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Focus-Frontend-blue?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Commits-Regular-success?style=for-the-badge" />
+
 </div>
-
-
