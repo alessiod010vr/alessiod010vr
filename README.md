@@ -86,10 +86,24 @@ Nel mio profilo trovi:
 
 ---
 
+## 📊 GitHub Stats
+
 <div align="center">
 
-<img src="https://img.shields.io/badge/Built%20with-HTML%20%7C%20CSS%20%7C%20JS-orange?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Focus-Frontend-blue?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Mindset-Clean%20Code-success?style=for-the-badge" />
+<!-- GitHub Stats -->
+<img src="https://github-readme-stats.vercel.app/api?username=alessiod010vr&show_icons=true&theme=tokyonight&hide_border=true" height="170" />
+
+<!-- Top Languages -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alessiod010vr&layout=compact&theme=tokyonight&hide_border=true" height="170" />
 
 </div>
+
+<br/>
+
+<div align="center">
+
+<!-- Commit Streak -->
+<img src="https://github-readme-streak-stats.herokuapp.com?user=alessiod010vr&theme=tokyonight&hide_border=true" />
+
+</div>
+
