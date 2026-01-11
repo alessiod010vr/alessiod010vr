@@ -11,11 +11,8 @@
 <a href="mailto:info@davialessio.dev">
   <img src="https://img.shields.io/badge/Email-info@davialessio.dev-blue?style=for-the-badge" />
 </a>
-
-<br/><br/>
-
 <img src="https://komarev.com/ghpvc/?username=alessiod010vr&label=Profile%20Views&style=for-the-badge" />
-
+<br/><br/>
 </div>
 
 ---
